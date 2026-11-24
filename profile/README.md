@@ -8,12 +8,12 @@
 
 ## 🎤 발표 자료 (2026 IT Festival)
 
-조선대학교 2026 IT Festival · AI·SW 캡스톤디자인 프로젝트 경진대회 발표에 쓴 자료입니다. 조직 멤버만 내려받을 수 있습니다.
+조선대학교 2026 IT Festival · AI·SW 캡스톤디자인 프로젝트 경진대회 본선 발표에 쓴 자료입니다. 누구나 내려받을 수 있습니다.
 
 | 자료 | 내용 | 받기 |
 | --- | --- | --- |
-| 📊 발표 슬라이드 (20장, PPTX 1.2MB) | 왜 만들었나 → 데이터 → 경로 엔진 → 결과 → 앱·AI 비서·길안내 → 시험(사용성 점검·현장 비교) → 협업 → 기대효과 | [세잎지도 발표_최종.pptx](https://github.com/Safe-Way/.github/releases/download/presentation-2026-11/seipjido-presentation.pptx) |
-| 🎬 발표 영상 (4분, 1080p MP4 54MB) | 발표 슬라이드를 따라 설명하는 영상 | [세잎지도 발표 영상.mp4](https://github.com/Safe-Way/.github/releases/download/presentation-2026-11/seipjido-presentation-video.mp4) |
+| 📊 발표 슬라이드 (24장, PPTX 1.2MB, 발표자 노트에 키워드·대본) | 왜 만들었나 → 데이터 → 경로 엔진 → 결과 → 앱·AI 비서·길안내 → 시험(사용성 점검·현장 비교) → 협업 → 기대효과 | [세잎지도 본선발표.pptx](https://github.com/Safe-Way/.github/releases/download/presentation-2026-11/seipjido-presentation.pptx) |
+| 🎬 발표 영상 (4분, 1080p MP4 8MB) | 발표 슬라이드를 따라 설명하는 영상 | [세잎지도 발표 영상.mp4](https://github.com/Safe-Way/.github/releases/download/presentation-2026-11/seipjido-presentation-video.mp4) |
 
 <sub>두 파일은 이 저장소의 [릴리스 presentation-2026-11](https://github.com/Safe-Way/.github/releases/tag/presentation-2026-11)에 있습니다.</sub>
 
